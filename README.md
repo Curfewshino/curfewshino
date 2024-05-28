@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Phuchay Mingkwan
+### Hi there 👋, I'm Phuchay
 
 
 ## I'm a Automation Engineering student, beginner artist, 3D-printer modder, weeb, racer, and a homecook. 
