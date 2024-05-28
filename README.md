@@ -1,6 +1,10 @@
-## Hi there 👋, I'm Phuchay Mingkwan
-# I'm a Automation Engineering student, beginner artist, 3D-printer modder, weeb, racer, and a homecook. 
-# I do Full stack, Software, and Embedded dev for fun.
+### Hi there 👋, I'm Phuchay Mingkwan
+
+
+## I'm a Automation Engineering student, beginner artist, 3D-printer modder, weeb, racer, and a homecook. 
+
+
+## I do Full stack, Software, and Embedded dev for fun.
 
 - 🎓 Currently studying at KOSEN KMUTT
 - 💻 Programming since i was seven
